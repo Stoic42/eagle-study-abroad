@@ -1,8 +1,39 @@
 # Eagle Study Abroad — 留学规划与调研仓库
 
+![Eagle Avatar](https://avatars.githubusercontent.com/u/74123595?v=4&size=120) [![GitHub](https://img.shields.io/badge/GitHub-EagleFandel-181717?logo=github)](https://github.com/EagleFandel) [![Status](https://img.shields.io/badge/Status-Active_Planning-brightgreen)](https://github.com/Stoic42/eagle-study-abroad) [![Docs](https://img.shields.io/badge/Docs-7_files-blue)](docs/) [![Commits](https://img.shields.io/badge/Last_Updated-2026--08--19-orange)]()
+
 > **Owner**: [Stoic42](https://github.com/Stoic42)（用户 / Desal）
 > **Subject**: [EagleFandel](https://github.com/EagleFandel)（赵轩灿 / 17 岁 / 上海三林中学）
+> **Mission**: **"世界上有一个场域，专门容纳看起来疯狂的想法，而且那里的人不会因为你年轻而笑话你。"** — Eagle, WAIC 2026
 > **Created**: 2026-08-19
+
+---
+
+## 📅 申请季关键时间线（Now → 2027-09）
+
+```
+2026-08          2026-09              2026-10              2026-11              2026-12
+   │                │                   │                    │                    │
+   │                │                   │                    │                    │
+   ▼                ▼                   ▼                    ▼                    ▼
+ [现在]        [启动期]           [材料准备]         [EA/REA 申请]       [决策点]
+ 🟢 立即行动    📚 雅思 5→5.5+    🎯 USACO 12 月    🏛️ Stanford 11/1    🎯 Gap year 评估
+ 📝 注册 OnlyDust   📚 AP CS A 自学   📝 启动小红书   🏛️ Harvard 11/1     📝 申请材料定稿
+ 💌 Inspirit AI 秋季  📚 启动小红书   📝 Common App  🗓️ Reach Oxford 11/15  📚 雅思 6+
+ 🇬🇧 UCAS 2026-10-15  🎯 USACO Bronze  📝 EA/REA 准备  🏛️ Princeton 11/1
+                                                                          │
+2027-01                       2027-02                                  2027-04
+   │                            │                                       │
+   ▼                            ▼                                       ▼
+ [RD 申请]                 [英国奖学金截止]                            [开始结果]
+🎓 MIT / Caltech 1/1       🏛️ Reach Oxford 2027-02-04                  🔔 RD 录取陆续放榜
+🎓 Harvard / Yale 1/1      🏛️ KWOK Scholarship 2/4                    🇬🇧 英国录取通知
+🎓 Princeton / Brown 1/1   🏛️ Cambridge Trust 2/4                      🏛️ 牛剑奖学金结果
+🎓 UC 系 11/30             🇩🇪 德国 TU9 2027 申请
+🎓 AU EGL 1/15
+🇬🇧 UCAS 1月
+🇩🇪 德国 TU9 2027-07-08
+```
 
 ---
 

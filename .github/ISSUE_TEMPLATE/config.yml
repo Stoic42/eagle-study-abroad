@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Eagle 个人 GitHub
+    url: https://github.com/EagleFandel
+    about: Eagle 个人主页
+  - name: Eagle 个人站
+    url: https://eagle.nomoo.top/
+    about: Eagle 的"硬核工程师 / 技术型创新创始人"主页
+  - name: Vibecafe AI 个人页
+    url: https://vibecafe.ai/@eagle
+    about: Eagle 在 Vibecafe 的 AI 社区页面
+  - name: 留学规划调研（5 路径）
+    url: https://github.com/Stoic42/eagle-study-abroad/blob/main/docs/02-research/01-study-abroad-5-paths.md
+    about: 5 路径综合调研报告
